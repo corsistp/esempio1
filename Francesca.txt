@@ -1,6 +1,11 @@
 Ciaoooo
 <<<<<<< HEAD
+<<<<<<< HEAD
 ehi
 =======
 come va?
+>>>>>>> svilfrancesca
+=======
+come va?
+...
 >>>>>>> svilfrancesca
